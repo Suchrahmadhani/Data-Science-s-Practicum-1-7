@@ -131,7 +131,7 @@ Library yang digunakan pada seluruh praktikum antara lain:
 
 ```
 DataScience-Practicum
-│
+
 ├── README.md
 ├── Pertemuan1_Suci_Rahmadhani_240401070508.ipynb
 ├── Pertemuan2_Suci_Rahmadhani_240401070508.ipynb
@@ -140,14 +140,6 @@ DataScience-Practicum
 ├── Pertemuan5_Suci_Rahmadhani_240401070508.ipynb
 ├── Pertemuan6_Suci_Rahmadhani_240401070508.ipynb
 ├── Pertemuan7_Suci_Rahmadhani_240401070508.ipynb
-│
-├── titanic.csv
-├── housing_dirty.csv
-├── housing_clean.csv
-├── heart_disease_uci.csv
-├── dashboard_heart_disease.png
-│
-└── requirements (library Python)
 ```
 
 ---
